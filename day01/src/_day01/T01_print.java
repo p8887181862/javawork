@@ -1,4 +1,4 @@
-package day01;
+package _day01;
 
 public class T01_print {
 
