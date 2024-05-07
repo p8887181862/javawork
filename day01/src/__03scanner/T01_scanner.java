@@ -1,0 +1,46 @@
+package __03scanner
+
+// import_02_variable.T02_char;
+
+public class T01_scanner {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		//Scanner scan = new scanner(System.in);
+		//System.out.print("이름을 입력하세요 : ");
+		//scan name() = scan.next();  // 문자열의 단어
+		//System.out.println("당신의 이름은" + name);
+		
+		System.out.print("나이를 입력하세요 : ");
+		//int age = scan.nextInt();
+	//	System.out.println("당신의 나이 ㅣ " + age);
+		
+		System.out.print("키를 입력하세요 : ");
+		//double key = scan.nextDouble();
+	//	System.out.println("키 : " + key);
+		
+		
+		System.out.print("당신은 남자입니까(true, false)?");
+		//boolean gender = scan.nextBoolean();
+		//System.out.println("당신은 남자입니까?" + gender);
+		
+		
+		System.out.print("주소를 입력하세요 : ");
+		//String address = scan.nextline();
+		//System.out.println("주소 : " + address);
+		
+		
+		System.out.print("당신의 성별은 무엇입니까? ");
+		//String gender2 = scan.next();
+	//	String gender3 = scan.next().charAt(0);
+		//System.out.print("성별 : " + gender2);
+	//	System.out.println("성별 : " + gender3);
+		
+	
+		
+		
+
+	}
+
+}
